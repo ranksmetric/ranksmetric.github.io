@@ -1,90 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Thank You for Reaching Out!</title>
-  <style>
-    body {
-      font-family: 'Roboto', sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      background: linear-gradient(135deg, #ff7e5f, #feb47b);
-      color: #fff;
-      text-align: center;
-    }
-    .container {
-      background: rgba(255, 255, 255, 0.1);
-      padding: 50px;
-      border-radius: 15px;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-      backdrop-filter: blur(10px);
-      animation: fadeIn 1s ease-in-out;
-    }
-    h1 {
-      font-size: 3em;
-      margin: 0 0 20px;
-    }
-    p {
-      font-size: 1.2em;
-      margin: 0 0 20px;
-      line-height: 1.5;
-    }
-    .btn {
-      display: inline-block;
-      padding: 15px 30px;
-      margin-top: 20px;
-      font-size: 1.1em;
-      color: #ff7e5f;
-      background-color: #fff;
-      border: none;
-      border-radius: 30px;
-      text-decoration: none;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    .btn:hover {
-      transform: scale(1.05);
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-    }
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(20px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-    .illustration {
-      width: 100%;
-      max-width: 300px;
-      margin: 0 auto 30px;
-    }
-    .social-icons {
-      margin-top: 20px;
-    }
-    .social-icons a {
-      margin: 0 10px;
-      color: inherit;
-      font-size: 1.2em;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thank You for Reaching Out!</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 600px;
+    width: 100%;
+  }
+  h1 {
+    color: #333;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  p {
+    color: #666;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  .btn {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  .btn:hover {
+    background-color: #0056b3;
+  }
+</style>
 </head>
 <body>
-  <div class="container">
-    <img src="https://via.placeholder.com/300" alt="Thank You Illustration" class="illustration">
-    <h1>Thank You for Reaching Out!</h1>
-    <p>We appreciate you taking the first step towards a stronger online presence. Here at Ranksmetric, we're excited to learn more about your digital marketing goals.</p>
-    <p>
-      Call to action: Subscribe and Follow our channel for exclusive content, industry trends, and marketing tips.
-    </p>
-    <div class="social-icons">
-      <a href="https://www.youtube.com/your-channel">YouTube</a> <a href="https://www.facebook.com/your-page">Facebook</a> <a href="https://www.twitter.com/your-handle">Twitter</a> </div>
-    <a href="/" class="btn">Return to Homepage</a>
-  </div>
+<div class="container">
+  <h1>Thank You for Reaching Out!</h1>
+  <p>We appreciate you taking the first step towards a stronger online presence. Here at Ranksmetric, we're excited to learn more about your digital marketing goals.</p>
+  <p>Call to action: Subscribe and Follow our channel for exclusive content, industry trends, and marketing tips.</p>
+  <a href="https://www.youtube.com/your-channel" class="btn">Subscribe on YouTube</a>
+  <a href="https://www.facebook.com/your-page" class="btn">Follow us on Facebook</a>
+  <a href="https://www.twitter.com/your-handle" class="btn">Follow us on Twitter</a>
+</div>
 </body>
 </html>
