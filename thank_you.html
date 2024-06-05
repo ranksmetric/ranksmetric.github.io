@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Thank You for Reaching Out!</title>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <style>
   body {
     font-family: 'Montserrat', sans-serif;
@@ -45,20 +46,51 @@
     background-color: #007bff;
     border-radius: 5px;
     transition: background-color 0.3s;
+    margin-top: 20px;
+  }
+  .btn i {
+    margin-right: 10px;
   }
   .btn:hover {
     background-color: #0056b3;
+  }
+  .logo {
+    width: 100px;
+    margin-bottom: 20px;
+  }
+  .social-icons {
+    margin-top: 20px;
+  }
+  .social-icons a {
+    margin: 0 10px;
+    color: #007bff;
+    font-size: 1.5rem;
+    text-decoration: none;
   }
 </style>
 </head>
 <body>
 <div class="container">
-  <h1>Thank You for Reaching Out!</h1>
+  <img src="https://via.placeholder.com/100" alt="Company Logo" class="logo">
+  <h1 id="thankYouMessage">Thank You for Reaching Out!</h1>
   <p>We appreciate you taking the first step towards a stronger online presence. Here at Ranksmetric, we're excited to learn more about your digital marketing goals.</p>
-  <p>Call to action: Subscribe and Follow our channel for exclusive content, industry trends, and marketing tips.</p>
-  <a href="https://www.youtube.com/your-channel" class="btn">Subscribe on YouTube</a>
-  <a href="https://www.facebook.com/your-page" class="btn">Follow us on Facebook</a>
-  <a href="https://www.twitter.com/your-handle" class="btn">Follow us on Twitter</a>
+  <p id="callToAction">Subscribe and Follow our channel for exclusive content, industry trends, and marketing tips.</p>
+  <div class="social-icons">
+    <a href="https://www.youtube.com/your-channel"><i class="fab fa-youtube"></i></a>
+    <a href="https://www.facebook.com/your-page"><i class="fab fa-facebook"></i></a>
+    <a href="https://www.twitter.com/your-handle"><i class="fab fa-twitter"></i></a>
+  </div>
+  <a href="/" class="btn"><i class="fas fa-home"></i>Return to Homepage</a>
 </div>
+<script>
+  // Get the name from the URL parameter
+  const urlParams = new URLSearchParams(window.location.search);
+  const name = urlParams.get('name');
+  
+  // Update the thank you message with the name
+  if (name) {
+    document.getElementById('thankYouMessage').innerHTML = `Thank You, ${name}, for Reaching Out!`;
+  }
+</script>
 </body>
 </html>
