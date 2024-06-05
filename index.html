@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Digital Marketing Services in 2024 - let's Connect</title>
+    <meta name="description"
+        content="We provide best digital marketing services & create powerful campaigns for seo, ppc & social media that deliver results for your business, call us today">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- owel carsouel css external cdns -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+    <!-- end cdns -->
+    <!-- ============== GTM Code =================-->
+    <!-- Google Tag Manager -->
+    <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KGWTLQ7F');
+    </script>
+    <!-- End Google Tag Manager -->
+    <!-- ============== GTM Code =================-->
+</head>
+<style>
+.digital_marketing {
+    background-image: linear-gradient(to left, var(--e-global-color-light-grayish-orange) 0%, var(--e-global-color-light-grayish-green) 50%, var(--e-global-color-very-light-grayish-cyan) 90%) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+
+}
+
+
+.lets_talk {
+    padding: 8px 18px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    color: var(--e-global-color-white) !important;
+    background: var(--e-global-color-lime-green);
+    border: 1px solid var(--e-global-color-lime-green);
+    transition: all 0.3s ease-in-out;
+}
+
+.lets_talk:hover {
+    background: transparent;
+    border: 1px solid #ff5440;
+    color: #ff5440 !important;
+    transform: translateY(-5px);
+}
+
+.serch_bar {
+    border-radius: 8px;
+    border: 1px solid #10205e;
+    outline: 0px;
+    transition: all 0.3s ease-in-out;
+
+}
+
+.serch_bar:hover {
+    background: transparent;
+    border: 1px solid #ff5440;
+    color: #ff5440 !important;
+    transform: translateY(-5px);
+}
+
+/* ======= spiner css code ============== */
+@keyframes spin {
+    0% {
+        transform: scale(0);
+        opacity: 1;
+    }
+
+    50% {
+        transform: scale(1);
+        opacity: 0.2;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 0;
+    }
+}
+
+.spinner-container {
+    position: relative;
+    display: none;
+    width: 100px;
+    height: 100px;
+
+}
+
+.spinner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: #ee4619;
+    animation: spin 2s ease-in-out infinite;
+
+}
+
+.spinner4 {
+    position: fixed;
+    right: 2%;
+    bottom: 5%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    z-index: 999;
+
+}
+
+.circle {
+    position: relative;
+    top: 10px;
+    left: 10px;
+
+    z-index: 2;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ee4619;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    color: white;
+}
+
+.list_of_items {
+    font-size: 16px;
+    font-weight: 600;
+    column-gap: 60px;
+
+}
+
+
+
+.all_links {
+    justify-content: center;
+}
+
+/* ======= spiner css end =============== */
+</style>
+
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGWTLQ7F" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- =========== header and part-one ================= -->
+    <section class="total_section" id="content">
+        <div class="digital_marketing position-relative">
+            <!-- header start -->
+            <header class="header-section">
+                <div class="container">
+                    <nav class="navbar navbar-expand-lg">
+                        <div class="container-fluid">
+                            <a class="navbar-brand" href="#"><img src="img/digital-marketing-logo.png" alt=""></a>
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                                <!-- <span class="navbar-toggler-icon"></span> -->
+                                <i class="fa-solid fa-bars"></i>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                                <div class="d-flex ms-auto all_links">
+                                    <ul class="navbar-nav me-5 mb-2 mb-lg-0 list_of_items">
+                                        <li class="nav-item ">
+                                            <a class="nav-link active" aria-current="page" href="Home">Home</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#about">About</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#services">Services</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#contact_us">Contact Us</a>
+                                        </li>
+                                    </ul>
+                                    <!-- <input class="serch_bar me-3 px-3" type="search" placeholder="Search"
+                                        aria-label="Search"> -->
+                                    <a href="tel:+91 6281976412">
+                                        <div class="lets_talk">Let's
+                                            Talk</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </header>
+            <!-- header end -->
+            <main class="main-section">
+                <section class="Part_one" id="Home">
+
+                    <div class="row all_main_row">
+
+                        <div class="col-12 col-sm-1 ms-0 ms-md-3  icons_section">
+                            <div class="side-media-icons mb-3">
+                                <i class="fa-brands fa-facebook-f social-networks"></i>
+                            </div>
+                            <div class="side-media-icons mb-3">
+                                <i class="fa-brands fa-twitter"></i>
+                            </div>
+                            <div class="side-media-icons mb-2">
+                                <i class="fa-brands fa-instagram"></i>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-5 heading_section">
+
+                            <div class="line_section">
+                                <div class="side-line me-3 mt-4 mt-sm-5 mt-lg-0"></div><b
+                                    class="best_digital mt-5 mt-lg-0">Best
+                                    Digital
+                                    Agency 2024</b>
+                            </div>
+
+                            <h1 class="main-heading mt-2 mt-lg-0">Increase Your Business Growth with Expert Team</h1>
+                            <p class="main_sub_heading mt-3">Ensuring the best return on investment from a bespoke
+                                digital
+                                    marketing
+                                service campaign.
+                            </p>
+
+
+                        </div>
+                        <div class="col-6 col-sm-1 mt-5 arrow-section pt-5">
+                            <img src="img/banner3-arrowimage.png" alt="" width="100%">
+                        </div>
+                        <div class="col-8 col-sm-4 position-relative mx-auto">
+                            <div class="img-section-two mt-5">
+                                <img src="img/banner3-image1.jpg" alt="" class="main_img">
+                            </div>
+                            <div class="img-section mt-5">
+                                <img src="img/banner3-vectorimage.png" alt="" width="100%">
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+                    <div class="row pb-5">
+                        <div class="col-sm-5 col-lg-5 scroll_section mt-3 mt-lg-0">
+                            <a href="#scroll_down">
+                                <div class="scroll_inner_section">
+                                    <img src="img/banner-scrolldownicon.png" alt="" width="auto">
+
+                                </div>
+                            </a>
+                            <span class="ms-3 scroll_down"> Scroll Down</span>
+
+                        </div>
+                        <div class="col-sm-3 col-lg-3 img-section3">
+                            <div>
+                                <img src="img/banner3-image2.jpg" alt="" class="banner_img3">
+                            </div>
+
+                        </div>
+                        <div class="col-sm-3 col-lg-3 mt-3 mt-lg-0 appointment_btn">
+                            <a href="#contact_us"><button class="appointment_now">Appointment Now <i
+                                        class="fa-solid fa-right-long ms-2"></i></button></a>
+                        </div>
+                        <div class="col-sm-1 col-lg-1 img-section4">
+                            <img src="img/banner3-boximage2.png" alt="" width="100%">
+                        </div>
+                    </div>
+
+
+                </section>
+            </main>
+        </div>
+        <!-- ============== header and part-one end code ================================ -->
+
+        <!-- ============== part-two section start ============================= -->
+
+        <section class="part_two" id="about">
+            <div>
+                <img src="img/about-toplayer.webp" alt="" width="auto" class="top_fixed_img">
+            </div>
+            <div class="container mt-lg-5 ">
+                <div class="row pt-lg-5 pb-5" id="scroll_down">
+                    <div class="col-11 col-sm-7 col-lg-7">
+                        <div class="line_section">
+                            <div class="side-line me-3 mt-4 mt-sm-5 mt-lg-0"></div><b
+                                class="best_digital mt-5 mt-lg-0">ABOUT RANKS METRIC</b>
+                        </div>
+                        <h2 class="main_heading_two mt-3">Digital Marketing Services That Helps You Grow</h2>
+                        <p class="main_sub_heading mt-3">
+                            Expand your business with proven <b>digital marketing solutions,</b> Google certified
+                            experts
+                            will help you get noticed online - Get results you can see</p>
+                    </div>
+                    <div class="col-8 col-sm-4 col-lg-4 position-relative mx-auto">
+                        <div class="side_imgs1">
+                            <img src="img/about-circularimage.webp" alt="">
+                        </div>
+                        <div>
+                            <img src="img/digital.jpg" alt="" class="img_section5">
+                        </div>
+
+                    </div>
+
+                    <div class="col-8 col-sm-7 col-lg-7 mt-3 mt-lg-0">
+
+                        <div>
+                            <img src="img/marketing_img3.webp" alt="" class="img_section_six">
+                        </div>
+
+
+                    </div>
+                    <div class="col-sm-4 advertising_content mt-5">
+                        <div class="">
+                            <p class="advertising_points"><i class="fa-solid fa-circle-check me-3"></i>Google Ads- PPC
+                            </p>
+                            <p class="advertising_points"><i class="fa-solid fa-circle-check me-3"></i>Web Development
+                            </p>
+                            <p class="advertising_points"><i class="fa-solid fa-circle-check me-3"></i> Social Media
+                                Marketing
+                            </p>
+                            <p class="advertising_points"> <i class="fa-solid fa-circle-check me-3"></i>Search Engine
+                                Optimization</p>
+                            <p class="advertising_points"> <i class="fa-solid fa-circle-check me-3"></i>Google My
+                                Business
+                                Optimization
+                            </p>
+                            <div class="mt-5">
+                                <a href="tel:6281976412"><button class="appointment_now">Contact Now</button></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <!-- <div>
+            <img src="img/about-globalimage.webp" alt="">
+        </div> -->
+        </section>
+        <!-- ===================== part-two section end ============================ -->
+
+        <!-- ===================== part-three section start ========================== -->
+        <section class="part_three pt-lg-5 pb-lg-5" id="services">
+            <div class="container mt-lg-5 ">
+                <div class="row">
+                    <div class="col-sm-6 col-lg-8 col-12">
+                        <div class="line_section">
+                            <div class="side-line me-3 mt-4 mt-sm-5 mt-lg-0"></div><b
+                                class="best_digital mt-5 mt-lg-0">Interesting Facts
+                            </b>
+                        </div>
+                        <h2 class="main_heading_two mt-3">We Provide Best Digital Marketing Service to Our Client</h2>
+                        <p class="main_sub_heading mt-3">
+                            Reduce marketing costs for your business. Choose the best digital marketing services and
+                            save up
+                            to 30% on your budget.
+
+                        </p>
+                    </div>
+                    <div class="col-sm-6 col-lg-4 col-12">
+                        <img src="img/service3-image.webp" alt="" width="100%">
+                    </div>
+                </div>
+            </div>
+
+            <div class="owl-carousel owl-theme first_owl_theme mt-5 pt-3 p-5">
+                <div class="item four_cards_items">
+                    <div class="card p-4 testmonials_card1 mt-3">
+                        <div class="fact_img_section mt-4">
+                            <img src="img/service3-icon3.webp" alt="" class="test_img_one">
+                        </div>
+                        <div class="mt-3 mb-3">
+                            <h4 class="mt-3 online_mark_heading">Google My Business</h4>
+                            <p class="all_testmonials_text mt-3"> Looking for more customers for your business? We'll
+                                help
+                                you to optimize your google map listing to ensure your business appears in local search
+                                results. This includes managing your profile, reviews, responding to customers, daily
+                                postings, and increasing reviews.</p>
+
+                            <a href="tel:6281976412"><button class="consult_now_btn mt-3">Consult Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item four_cards_items mt-lg-5 mt-md-5  mt-0">
+                    <div class="card p-4 testmonials_card2 mt-3">
+                        <div class="fact_img_section mt-3">
+                            <img src="img/service3-icon4.webp" alt="" class="test_img_one">
+                        </div>
+                        <div class="mt-3 mb-3">
+                            <h4 class="mt-3 online_mark_heading">SEO Optimization</h4>
+                            <p class="all_testmonials_text mt-3">Stop struggling with limited visibility. Get seen by
+                                more
+                                customers & increase your website traffic, leads with proven Seo strategies. Our Seo
+                                experts
+                                help you get discovered online by potential customers. Rank your website and keywords on
+                                the
+                                first page of google</p>
+
+                            <a href="tel:6281976412"><button class="consult_now_btn mt-3">Consult Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item four_cards_items">
+                    <div class="card p-4 testmonials_card3 mt-3">
+                        <div class="fact_img_section mt-3">
+                            <img src="img/service3-icon2.webp" alt="" class="test_img_one">
+                        </div>
+                        <div class="mt-3 mb-3">
+                            <h4 class="mt-3 online_mark_heading">Web Development</h4>
+                            <p class="all_testmonials_text mt-3">We design and develop Seo friendly websites that
+                                represent
+                                your brand, engage your audience and achieve your business goals. From user-friendly
+                                interfaces to conversion-focused layouts, we create websites that work for you. Convert
+                                website visitors into customers.</p>
+
+                            <a href="tel:6281976412"><button class="consult_now_btn mt-3">Consult Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item four_cards_items mt-lg-5 mt-md-5  mt-0">
+                    <div class="card p-4 testmonials_card4 mt-3">
+                        <div class="fact_img_section mt-3">
+                            <img src="img/service3-icon1.webp" alt="" class="test_img_one">
+                        </div>
+                        <div class="mt-3 mb-3">
+                            <h4 class="mt-3 online_mark_heading">PPC Services</h4>
+                            <p class="all_testmonials_text mt-3">
+                                Get found by ready-to-buy customers, grow your business online and attract more
+                                customers.
+                                We increase sales, leads or traffic with targeted google ads. We put your business in
+                                front
+                                of people who are actively searching for your services or the products you offer.</p>
+
+                            <a href="tel:6281976412"><button class="consult_now_btn mt-3">Consult Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item four_cards_items mt-lg-5 mt-md-5  mt-0">
+                    <div class="card p-4 testmonials_card4 mt-3">
+                        <div class="fact_img_section mt-3">
+                            <img src="img/service3-icon1.webp" alt="" class="test_img_one">
+                        </div>
+                        <div class="mt-3 mb-3">
+                            <h4 class="mt-3 online_mark_heading">Social Media Marketing</h4>
+                            <p class="all_testmonials_text mt-3">
+                                Get your customers found on social media and build brand awareness with our customized
+                                social media marketing services. We run effective social media ads, manage social media
+                                channels, optimizing campaigns and drive meaningful leads, sales, and growth for
+                                business.
+                            </p>
+
+                            <a href="tel:6281976412"><button class="consult_now_btn mt-3">Consult Now</button></a>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </section>
+
+        <!-- ===================== part-three section end ========================== -->
+
+        <!-- ============== part-four section start ============================= -->
+
+        <section class="project-mind position-relative">
+            <div class="project_sub">
+                <div class="row">
+                    <div class="col-12 col-sm-6 p-0">
+                        <div class="project_content">
+                            <div class="content">
+                                <div class="line"></div>
+                                <h2 class="page_con_heading mt-2">Have Project in Mind?</h2>
+                                <p class="page_text mt-3"> Ask us about any plan and know how we work
+                                </p>
+                                <div class="get_started mt-3">Get Started Today</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 p-0">
+                        <div class="project_content_two">
+                            <div class="content">
+                                <div class="line"></div>
+                                <h2 class="page_con_heading mt-2">Boost Your Business Digitally</h2>
+                                <p class="page_text mt-3"> Know how it works and ask any questions you may have
+                                </p>
+                                <div class="lets_started mt-3">Get In Touch With Us</div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- ============== part-four section end ============================= -->
+
+        <!-- ============== part-5 section start ============================= -->
+
+        <section class="part_five mt-5">
+
+            <div class="container mt-5">
+                <h5 class="how_it text-center">HOW IT WORKS</h5>
+                <center>
+                    <div class="side_line"></div>
+                </center>
+
+                <h2 class="main_heading_three mt-3 text-center">We Focus on AI Marketing <br> and Breakthrough Results
+                </h2>
+                <div class="row mt-5">
+                    <!-- Icon Container 1 -->
+                    <div class="col-lg-3 col-md-6 col-sm-12 icon-container">
+                        <div class="outer-circle common_color1">
+
+                            <div class="icon">
+                                <img src="img/work-icon1.png" alt=""><!-- Replace with your preferred icon -->
+                            </div>
+                            <div class="innser_sub common_color1">
+                                <div class="inner-circle">01</div>
+                            </div>
+
+                        </div>
+                        <div class="vertical-line common_color1"></div>
+                        <div class="small-circle common_color1"></div>
+                        <h4 class="all_concept_data mt-3">Concept</h4>
+                        <p class="sub_concept_data">We craft establish specific, measurable, achievable, relevant, &
+                            time-bound goals for your campaign.</p>
+
+                    </div>
+
+
+                    <div class="col-lg-3 col-md-6 col-sm-12 icon-container">
+                        <div class="outer-circle common_color2">
+
+                            <div class="icon">
+                                <img src="img/work-icon2.png" alt=""><!-- Replace with your preferred icon -->
+                            </div>
+                            <div class="innser_sub common_color_sub">
+                                <div class="inner-circle ">02</div>
+                            </div>
+
+                        </div>
+                        <div class="vertical-line common_color2"></div>
+                        <div class="small-circle common_color2"></div>
+                        <h4 class="all_concept_data mt-3">Budget</h4>
+                        <p class="sub_concept_data"> We leverage budget to highlight performance to maximize your return
+                            investment (ROI) for business.</p>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12 icon-container">
+                        <div class="outer-circle common_color3">
+
+                            <div class="icon">
+                                <img src="img/work-icon3.png" alt=""><!-- Replace with your preferred icon -->
+                            </div>
+                            <div class="innser_sub common_color_sub">
+                                <div class="inner-circle ">03</div>
+                            </div>
+
+                        </div>
+                        <div class="vertical-line common_color3"></div>
+                        <div class="small-circle common_color3"></div>
+                        <h4 class="all_concept_data mt-3">Development</h4>
+                        <p class="sub_concept_data">From strategy to reality we creating engaging experiences that
+                            refine &
+                            evolve your digital growth.</p>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12 icon-container">
+                        <div class="outer-circle common_color4">
+
+                            <div class="icon">
+                                <img src="img/work-icon4.png" alt=""><!-- Replace with your preferred icon -->
+                            </div>
+                            <div class="innser_sub common_color_sub">
+                                <div class="inner-circle ">04</div>
+                            </div>
+
+                        </div>
+                        <div class="vertical-line common_color4"></div>
+                        <div class="small-circle common_color4"></div>
+                        <h4 class="all_concept_data mt-3">Result</h4>
+                        <p class="sub_concept_data">We don't just marketing, we deliver. Results you can experience &
+                            measure from strategy to success.</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- ============== part-5 section end ============================= -->
+        <!-- ============== part-6 section start ============================= -->
+
+        <section class="part_six mt-5 pb-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 col-lg-7">
+                        <div class="line_section">
+                            <div class="side-line me-3 mt-4 mt-sm-5 mt-lg-0"></div><b
+                                class="best_digital mt-5 mt-lg-0">Quick Fact Alert!
+                            </b>
+                        </div>
+                        <h2 class="main_heading_three mt-3"> Supercharge Your <br> Marketing Effectiveness.</h2>
+                        <p class="main_sub_heading"> We don't just talk. We deliver more sales, more customers,
+                           so you can
+                            measure the ROI for your business.
+                        </p>
+                        <div class="row mt-5">
+                            <div class="col-12 col-sm-8 col-lg-6 mx-auto number_dm_data">
+                                <div class="me-4">
+                                    <img src="img/fact-icon1.webp" alt="">
+                                </div>
+                                <span><b class="numbers">787 <span style="color:#ff5440">+</span></b>
+                                    <p class="numbers_sub">
+                                        Business Ideas</p>
+                                </span>
+                            </div>
+                            <div class="col-12 col-sm-8 col-lg-6 mx-auto col-lg-6 number_dm_data">
+                                <div class="me-4">
+                                    <img src="img/fact-icon2.webp" alt="">
+                                </div>
+                                <span><b class="numbers">129 <span style="color:#ff5440">+</span></b>
+                                    <p class="numbers_sub">
+                                        Happy Customers</p>
+                                </span>
+                            </div>
+                            <div class="col-12 col-sm-8 col-lg-6 mx-auto number_dm_data">
+                                <div class="me-4">
+                                    <img src="img/fact-icon3.webp" alt="">
+                                </div>
+                                <span><b class="numbers">250 <span style="color:#ff5440">+</span></b>
+                                    <p class="numbers_sub">
+                                        Million Budget Managed</p>
+                                </span>
+                            </div>
+                            <div class="col-12 col-sm-8 col-lg-6 mx-auto number_dm_data">
+                                <div class="me-4">
+                                    <img src="img/fact-icon4.webp" alt="">
+                                </div>
+                                <span><b class="numbers">115 <span style="color:#ff5440">+</span></b>
+                                    <p class="numbers_sub">
+                                        Finished Projects</p>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="c0l-12 col-sm-4 col-lg-5">
+
+                        <img src="img/marketing_img_three.webp" alt="" class="fact_img">
+
+                        <!-- <div>
+                     <img src="img/video-icon.webp" alt="">
+                     </div> -->
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- =========== part-6 section end =============== -->
+        <!-- =========== part-7 section start ============== -->
+        <section class="part-siven mt-5 pt-5">
+            <div class="container mt-5">
+                <div class="row">
+                    <div class="col-12 col-sm-5 col-lg-4 position-relative">
+                        <div class="globe_main">
+                            <img src="img/about-globalimage.webp" alt="" class="globe_img">
+                        </div>
+                        <div class="">
+                            <img src="img/testimonial3-image.webp" alt="" class="testmonial_image">
+                        </div>
+
+
+
+
+                    </div>
+                    <div class="col-12 col-sm-7 col-lg-7 ms-0 ms-lg-5">
+                        <div class="line_section">
+                            <div class="side-line me-3 mt-4 mt-sm-5 mt-lg-0"></div><b
+                                class="best_digital mt-5 mt-lg-0">FUN
+                                FACTS</b>
+                        </div>
+                        <h2 class="main_heading_three mt-3">Check How Happy Our Users Are!</h2>
+
+
+                        <div class="owl-carousel owl-theme second_owl_theme mt-lg-5  pt-3">
+                            <div class="item">
+                                <div class="card p-4 testmonials_cards">
+                                    <div class="imag-testmonials">
+                                        <img src="img/testimonial3-image1.jpg" alt="" class="test_img_two">
+                                    </div>
+                                    <div class="mt-3">
+                                        <b class="review_name">Saurabh Kumar</b>
+                                        <p class="all_testmonials_text">
+                                            These guys are rockstars, they helped me grow my
+                                            online presence and get more admissions in my college. Highly recommended
+                                            for
+                                            digital marketing services in Hyderabad.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="card p-4 testmonials_cards">
+                                    <div class="imag-testmonials">
+                                        <img src="img/testimonial3-image2.jpg" alt="" class="test_img_two">
+                                    </div>
+                                    <div class="mt-3">
+                                        <b class="review_name">Prashant Reddy</b>
+                                        <p class="all_testmonials_text">
+                                            Happy with the targeted Google ads. I am getting great
+                                            leads for my hospital thanks to their healthcare digital marketing services
+                                            in
+                                            Hyderabad. I highly recommend it.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="card p-4 testmonials_cards">
+                                    <div class="imag-testmonials">
+                                        <img src="img/testimonial3-image1.jpg" alt="" class="test_img_two">
+                                    </div>
+                                    <div class="mt-3">
+                                        <b class="review_name">Ashish Chauhan</b>
+                                        <p class="all_testmonials_text">
+                                            The team at Rankmetric helped me to grow my sales
+                                            and build a strong online community for my business. They completely
+                                            transformed
+                                            my social media campaign. I highly recommend them for social media marketing
+                                            services.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="card p-4 testmonials_cards">
+                                    <div class="imag-testmonials">
+                                        <img src="img/testimonial3-image2.jpg" alt="" class="test_img_two">
+                                    </div>
+                                    <div class="mt-3">
+                                        <b class="review_name">Gaurav Acharya</b>
+                                        <p class="all_testmonials_text">
+                                            Their graphic design skills are top notch. They were
+                                            able to capture the essence of my brand and create eye-catching visuals that
+                                            stand
+                                            out from the competition. Best Graphic Design Service on RankMetric</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- =========== part-7 section end ================ -->
+
+        <!-- ========== footer and part-8 section ================ -->
+        <!-- contact form section -->
+        <section class="contact_form pt-5" id="contact_us">
+            <div class="container">
+                <div class="contact_content">
+                    <div class="container">
+                        <h4>GET IN TOUCH</h4>
+                        <div class="bottom_line"></div>
+                        <h1 class="form_msg">Send Us A Message</h1>
+                        <form action="">
+                            <div class="row mt-5">
+                                <div class="col-12 col-12 col-sm-6">
+                                    <input type="text" name="" id="Name" class="input_section mb-3 mb-lg-4"
+                                        placeholder="Name">
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <input type="text" name="" id="Phone" class="input_section mb-3 mb-lg-4"
+                                        placeholder="Phone">
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <input type="text" name="" id="Email" class="input_section mb-3 mb-lg-4"
+                                        placeholder="Email">
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <input type="text" name="" id="WebSite" class="input_section mb-3 mb-lg-4"
+                                        placeholder="WebSite URL">
+                                </div>
+                                <div class="col-sm-12">
+                                    <textarea name="" id="Message" cols="50" rows="4" class="input_section mb-3 mb-lg-4"
+                                        placeholder="Message"></textarea> </textarea>
+                                </div>
+                            </div>
+                            <input type="button" class="send_message_btn" value="Send Message Now"
+                                onclick="sendEmail()">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer class="mt-3">
+            <section class="footer_section pt-5 mt-5 pb-5">
+                <div class="container">
+                    <div class="row pt-4 mb-4">
+                        <div class="col-sm-6">
+                            <!-- <img src="https://html.designingmedia.com/keywordly/assets/images/footer3-logo.png" alt=""> -->
+                            <img src="img/digital-marketing-logo.png" alt="">
+                            <p class="mt-3 footer-text">Achieve more from Ranking to revenue. Where marketing meets
+                                expertise. Your marketing metrics powerhouse - Ranksmetric</p>
+                            <div class="all_social_icons">
+                                <div class="fa_icons me-3">
+                                    <i class="fa-brands fa-facebook-f social-networks"></i>
+                                </div>
+                                <div class="fa_icons me-3">
+                                    <i class="fa-brands fa-twitter social-networks"></i>
+                                </div>
+                                <div class="fa_icons me-3">
+                                    <i class="fa-brands fa-instagram social-networks"></i>
+                                </div>
+                                <div class="fa_icons me-3">
+                                    <i class="fa-brands fa-linkedin"></i>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-sm-2 services_section mt-3 mt-lg-0">
+                            <a class="ancor_tag_color" href="#Home">
+                                <p><i id="all_common_color" class="fa-solid fa-house me-1"></i>Home</p>
+                            </a>
+                            <a class="ancor_tag_color" href="#about">
+                                <p><i id="all_common_color" class="fa-solid fa-address-card me-1"></i>About</p>
+                            </a>
+                            <a class="ancor_tag_color" href="#services">
+                                <p><i id="all_common_color" class="fa-brands fa-servicestack me-1"></i>Services</p>
+                            </a>
+                            <a class="ancor_tag_color" href="tel:6281976412">
+                                <p><i id="all_common_color" class="fa-solid fa-phone me-1"></i>Contact us</p>
+                            </a>
+                        </div>
+                        <div class="col-sm-2 contact_section">
+                            <p><i id="all_common_color" class="fa-solid fa-mobile me-1"></i>+91 6281976412</p>
+                            <p><i id="all_common_color" class="fa-solid fa-envelope me-1"></i>ranksmetric@gmail.com</p>
+                            <p><i id="all_common_color" class="fa-solid fa-location-dot me-1"></i>H.No:4- 1068, New
+                                Hafeezpet, 500049, Hyderabad</p>
+                        </div>
+                        <div class="col-sm-2 appintment_section">
+
+                            <a class="ancor_tag_color" href="https://wa.me/6281976412"><button
+                                    class="footer_btn">Appointment Now<i
+                                        class="fa-solid fa-right-long ms-2"></i></button></a>
+                            <!-- <p class="mt-3"> tellus luctus
+                            nec ulla corper mattis aulvinar daibus leo.</p> -->
+                        </div>
+                    </div>
+                    <hr class="mt-3">
+                    <p class="appintment_section text-center"> Copyright © 2024 Ranksmetric Rights Reserved.</p>
+                </div>
+            </section>
+        </footer>
+
+    </section>
+    <!-- ========== footer and part-8 end ================ -->
+
+    <!-- ========== spinner code ============= -->
+    <div class="spinner4">
+        <div class="spinner-container" id="scrollButton" onclick="scrollToTop()" style="display: block;">
+            <div class="spinner"></div>
+            <div class="circle">
+                <i class="fa-solid fa-arrow-up"></i>
+            </div>
+        </div>
+    </div>
+
+    <!-- </section> -->
+    <!-- ========== spinner end ============= -->
+    <!-- ========== Page Loader ============= -->
+    <div id="loader-wrapper">
+        <div id="loader">
+            <div class="flame"></div>
+            <div class="flame"></div>
+            <div class="flame"></div>
+            <div class="flame"></div>
+            <div class="flame"></div>
+        </div>
+    </div>
+    <!-- ========== Page Loader end ============= -->
+
+</body>
+
+</html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+<!-- ========= send enail to user ======= -->
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+<script>
+function sendEmail() {
+    var name = document.getElementById("Name").value;
+    var Phone = document.getElementById("Phone").value;
+    var Email = document.getElementById("Email").value;
+    var WebSite = document.getElementById("WebSite").value;
+    var Message = document.getElementById("Message").value;
+
+
+    var body = " Name :" + name + "<br/> Phone :" + Phone + "<br/> Email :" + Email + "<br/> WebSite :" + WebSite +
+        "<br/> Message :" + Message;
+    Email.send(body);
+    // console.log(body)
+
+    Email.send({
+        Host: "smtp.elasticemail.com",
+        Username: "chinnuyeligana2662@gmail.com",
+        Password: "55E7CA180031742890F042751909D992BED6",
+        To: 'chinnuyeligana2662@gmail.com',
+        From: "chinnuyeligana2662@gmail.com",
+        Subject: "New Form Contact Details",
+        Body: body
+    }).then(
+        message => alert(message)
+    );
+}
+</script>
+<!-- ========= end of the send email ======= -->
+
+<!-- j query cdn end -->
+<script>
+$(document).ready(function() {
+    $('.second_owl_theme').owlCarousel({
+        loop: true,
+        margin: 10,
+        nav: true,
+        autoplay: true, // Enable auto scroll
+        autoplayTimeout: 2000, // Auto scroll interval in milliseconds (3 seconds)
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 1
+            },
+            1000: {
+                items: 2
+            }
+        }
+    })
+    $('.first_owl_theme').owlCarousel({
+        loop: true,
+        margin: 10,
+        nav: true,
+        autoplay: true, // Enable auto scroll
+        autoplayTimeout: 2000, // Auto scroll interval in milliseconds (3 seconds)
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 1
+            },
+            1000: {
+                items: 4
+            }
+        }
+    })
+})
+// ===== scroll section js code =============
+function scrollToSection(sectionId) {
+    const section = document.getElementById(sectionId);
+    if (section) {
+        section.scrollIntoView({
+            behavior: 'smooth'
+        });
+    }
+}
+
+
+var scrollButton = document.getElementById("scrollButton");
+
+window.onscroll = function() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        scrollButton.style.display = "block";
+    } else {
+        scrollButton.style.display = "none";
+    }
+};
+
+function scrollToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+// ========== Page Loader js =============
+document.addEventListener('DOMContentLoaded', function() {
+    const loaderWrapper = document.getElementById('loader-wrapper');
+    const content = document.getElementById('content');
+
+    // Show loader on page refresh
+    loaderWrapper.style.display = 'flex';
+    content.style.display = 'none';
+
+    // Simulate loading delay
+    setTimeout(() => {
+        loaderWrapper.style.display = 'none';
+        content.style.display = 'block';
+    }, 3000); // Adjust the delay as needed
+});
+</script>
