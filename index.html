@@ -819,8 +819,8 @@
                                         placeholder="Message"></textarea> </textarea>
                                 </div>
                             </div>
-                            <input type="button" class="send_message_btn" value="Send Message Now"
-                                onclick="sendEmail()">
+                            <button type="button" class="send_message_btn" value="Send Message Now"
+                                onclick="sendEmail()"> </button>
                         </form>
 
 
@@ -843,6 +843,14 @@
         </section>
 
 
+<!-- form.html on original site -->
+<form action="https://unbeatableitservices.com/machine/emailsender.php" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <button type="submit">Submit</button>
+</form>
 
 
 
