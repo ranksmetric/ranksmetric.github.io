@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You!</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #ff7e5f, #feb47b);
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 50px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(10px);
+            animation: fadeIn 1s ease-in-out;
+        }
+        h1 {
+            font-size: 3em;
+            margin: 0 0 20px;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 0 0 20px;
+            line-height: 1.5;
+        }
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            margin-top: 20px;
+            font-size: 1.1em;
+            color: #ff7e5f;
+            background-color: #fff;
+            border: none;
+            border-radius: 30px;
+            text-decoration: none;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .illustration {
+            width: 100%;
+            max-width: 300px;
+            margin: 0 auto 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://via.placeholder.com/300" alt="Thank You Illustration" class="illustration">
+        <h1>Thank You!</h1>
+        <p>We appreciate you reaching out. Your message has been received and we'll be in touch shortly.</p>
+        <p>In the meantime, explore our <a href="/services" style="color: #feb47b; text-decoration: underline;">services</a> or check out our <a href="/blog" style="color: #feb47b; text-decoration: underline;">latest articles</a>.</p>
+        <a href="/" class="btn">Return to Homepage</a>
+    </div>
+</body>
+</html>
