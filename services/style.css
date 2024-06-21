@@ -544,7 +544,7 @@ div.testmonials_card4 {
     margin-top: 50px;
 }
 
-.icon-container .outer-circle {
+.tempicon-container .outer-circle {
     background-color: #abdfcd;
     border-radius: 50%;
     width: 130px;
@@ -557,7 +557,7 @@ div.testmonials_card4 {
 }
 
 
-.icon-container .outer-circle .inner-circle {
+.tempicon-container .outer-circle .inner-circle {
     background-color: #ff5440;
     border-radius: 50%;
     width: 40px;
@@ -596,7 +596,7 @@ div.common_color_sub {
     background-color: white;
 }
 
-.icon {
+.tempicon {
 
     display: flex;
     justify-content: center;
@@ -606,7 +606,7 @@ div.common_color_sub {
     /* Rotate back to keep it unrotated */
 }
 
-.icon i {
+.tempicon i {
     color: white;
     font-size: 24px;
 }
